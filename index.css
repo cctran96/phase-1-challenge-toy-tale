@@ -32,6 +32,12 @@ body {
   box-shadow: 3px 4px #e04b52
 }
 
+img {
+  width: 200px;
+  height: 200px;
+  text-align: center;
+}
+
 .toy-avatar {
   justify-self: center;
   height: 12rem;
